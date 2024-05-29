@@ -1,11 +1,11 @@
 [
   {
-    "url": "http://54.37.199.51:8084/api",
+    "url": "https://dictionary.b2p.space/api",
     "name": "B2Dictionary",
     "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png"
   },
   {
-    "url": "http://54.37.199.51:8082/api",
+    "url": "https://market.b2p.space/api",
     "name": "B2Marketplace",
     "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png"
   }
