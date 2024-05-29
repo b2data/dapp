@@ -1,11 +1,11 @@
 [
   {
-    "url": "http://localhost:8084",
+    "url": "https://localhost:8084",
     "name": "B2Dictionary",
     "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png"
   },
   {
-    "url": "http://localhost:8082",
+    "url": "https://localhost:8082",
     "name": "B2Marketplace",
     "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png"
   }
