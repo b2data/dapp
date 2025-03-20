@@ -1,0 +1,11 @@
+[
+  {
+    appName: "telegram-wallet:b2wallet",
+    name: "B2Wallet",
+    imageUrl: "https://github.com/b2data/dapp/blob/main/icon192.png?raw=true",
+    aboutUrl: "https://wallet.b2p.space/",
+    universalLink: "https://t.me/b2w_bot/app?attach=wallet",
+    bridgeUrl: "https://localhost:8087/tonconnect/bridge",
+    platforms: ["ios", "android", "macos", "windows", "linux"]
+  }
+]
