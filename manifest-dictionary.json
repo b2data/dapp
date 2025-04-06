@@ -1,5 +1,5 @@
 {
-  "url": "https://localhost:8084",
+  "url": "http://dictionary.b2p.space",
   "name": "TEST B2MDictionary",
   "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png"
 }
