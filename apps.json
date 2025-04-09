@@ -8,5 +8,10 @@
     "url": "https://localhost:8082",
     "name": "B2Market",
     "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png"
+  },
+  {
+    "url": "https://localhost:8088",
+    "name": "B2Sign",
+    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png"
   }
 ]
