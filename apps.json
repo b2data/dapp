@@ -8,5 +8,10 @@
     "url": "https://market.b2p.space/api",
     "name": "B2Market",
     "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png"
+  },
+  {
+    "url": "https://sign.b2p.space/api",
+    "name": "B2Sign",
+    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png"
   }
 ]
