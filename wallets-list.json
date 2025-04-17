@@ -4,7 +4,7 @@
     "name": "B2Wallet",
     "image": "https://github.com/b2data/dapp/blob/main/icon192.png?raw=true",
     "about_url": "https://wallet.b2p.space/",
-    "universal_url": "https://t.me/b2wallet_bot/app?attach=wallet",
+    "universal_url": "https://t.me/b2wallet_bot/app",
     "bridge": [
       {
         "type": "sse",
