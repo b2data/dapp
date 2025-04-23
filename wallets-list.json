@@ -1,14 +1,14 @@
 [
    {
-    "app_name": "telegram-wallet:b2wallet",
-    "name": "B2Wallet",
+    "app_name": "telegram-wallet:b2wallet-beta",
+    "name": "B2Wallet Beta",
     "image": "https://github.com/b2data/dapp/blob/main/icon192.png?raw=true",
-    "about_url": "https://wallet.b2p.space/",
-    "universal_url": "https://t.me/b2wallet_bot/app",
+    "about_url": "https://beta.wallet.b2p.space/",
+    "universal_url": "https://t.me/beta_b2w_bot/app",
     "bridge": [
       {
         "type": "sse",
-        "url": "https://wallet.b2p.space/api/tonconnect/bridge"
+        "url": "https://beta.wallet.b2p.space/api/tonconnect/bridge"
       }
     ],
     "platforms": ["ios", "android", "macos", "windows", "linux"]
