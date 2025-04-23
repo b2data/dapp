@@ -1,17 +1,17 @@
 [
   {
-    "url": "https://dictionary.b2p.space/api",
-    "name": "B2Dictionary",
-    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png"
+    "url": "https://beta.dictionary.b2p.space/api",
+    "name": "B2Dictionary Beta",
+    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/beta/icon192.png"
   },
   {
-    "url": "https://market.b2p.space/api",
-    "name": "B2Market",
-    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png"
+    "url": "https://beta.market.b2p.space/api",
+    "name": "B2Market Beta",
+    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/beta/icon192.png"
   },
   {
-    "url": "https://sign.b2p.space/api",
-    "name": "B2Sign",
-    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png"
+    "url": "https://beta.sign.b2p.space/api",
+    "name": "B2Sign Beta",
+    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/beta/icon192.png"
   }
 ]
