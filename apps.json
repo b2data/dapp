@@ -1,17 +1,50 @@
 [
   {
+    "url": "https://localhost:8080",
+    "name": "B2Data (Local)",
+    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png",
+    "apiSpec": "https://raw.githubusercontent.com/b2data/core-api/refs/heads/main/b2data-openapi.yaml",
+    "hasAgents": true,
+    "hasClient": true
+  },
+  {
     "url": "https://localhost:8084",
-    "name": "B2Dictionary",
-    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/local/icon192.png"
+    "name": "B2Dictionary (Local)",
+    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png",
+    "apiSpec": "https://raw.githubusercontent.com/b2data/core-api/refs/heads/main/b2dictionary-openapi.yaml",
+    "hasAgents": true,
+    "hasClient": true
   },
   {
     "url": "https://localhost:8082",
-    "name": "B2Market",
-    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/local/icon192.png"
+    "name": "B2Market (Local)",
+    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png",
+    "apiSpec": "https://raw.githubusercontent.com/b2data/core-api/refs/heads/main/b2market-openapi.yaml",
+    "hasAgents": true,
+    "hasClient": true
+  },
+  {
+    "url": "https://localhost:8085",
+    "name": "B2Pay (Local)",
+    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png",
+    "apiSpec": "https://raw.githubusercontent.com/b2data/core-api/refs/heads/main/b2pay-openapi.yaml",
+    "hasAgents": true,
+    "hasClient": true
   },
   {
     "url": "https://localhost:8088",
-    "name": "B2Sign",
-    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/local/icon192.png"
+    "name": "B2Sign (Local)",
+    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png",
+    "apiSpec": "https://raw.githubusercontent.com/b2data/core-api/refs/heads/main/b2sign-openapi.yaml",
+    "hasAgents": true,
+    "hasClient": true
+  },
+  {
+    "url": "https://localhost:8087",
+    "name": "B2Wallet (Local)",
+    "iconUrl": "https://raw.githubusercontent.com/b2data/dapp/main/icon192.png",
+    "apiSpec": "https://raw.githubusercontent.com/b2data/core-api/refs/heads/main/b2wallet-openapi.yaml",
+    "hasAgents": false,
+    "hasClient": false
   }
 ]
